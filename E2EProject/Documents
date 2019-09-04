@@ -1,0 +1,24 @@
+command line to create project with arche quickstart skeleton
+make base class and put reusable component
+nullPointerException when not find an object 
+use .equal method 
+two to use other class, 1 inheritance 2 creat obect of the class you wnat to
+use it 
+noSuchElementException when object css other is not identify accurate 
+fileNotFoundException 
+arrayOutOfBound Exception 
+test maven integration 
+xml build tag place before dependency 
+apache maven resources for, log4j dependency 
+<resouces><resource>
+testNG listner in xml <listners><listner>
+HTML report
+extend report APi Dependency, put in resouces folder 
+the report is in Target forlder for maven command run suit
+test-Output for testNG running 
+jenkins 
+put project in .jenkin 
+S{JENKINS_HOME}/PROJECT PATH
+start jenkins-new item -project name -advance custome build workspace
+-add build step-invok maven project-test-build-pro-add post build-update maven project
+jenkin folder target copy the extend report path 
